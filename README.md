@@ -42,7 +42,9 @@
 - Emphasis on effective database design and integration practices.
 - Presentation of the final project, including a demonstration and code review.
 
-## Coding Exercises(cover a range of skills and concepts, providing practical experience in database design, SQL, and web integration. 
+## Coding Exercises
+
+(cover a range of skills and concepts, providing practical experience in database design, SQL, and web integration. 
 Adjust the difficulty based on the students' progress throughout the course)
 
 - Design a database schema for my online learning website.
@@ -99,6 +101,7 @@ app.get('/api/courses', (req, res) => {
 ### Frontend (Client-side)
 
 #### Choose a Frontend Framework:
+
 Example: Using React.js for a dynamic user interface.
 
 #### Course Listing Page:
@@ -143,7 +146,7 @@ function LoginForm() {
 
 - Display detailed information about a selected course.
 
-  ```js
+```js
   // Example React component for course details
 function CourseDetails({ course }) {
   return (
