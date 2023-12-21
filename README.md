@@ -1,29 +1,29 @@
 # Database Design and Integration for Web Development
 
-## Week 1-2: Introduction to Databases and SQL Basics**
+## Week 1-2: Introduction to Databases and SQL Basics
 - Understanding databases and their importance in web development.
 - Introduction to relational databases.
 - Basic SQL commands (SELECT, INSERT, UPDATE, DELETE).
 - Hands-on exercises for creating and manipulating data using SQL.
 
-## Week 3-4: Relational Database Design Principles**
+## Week 3-4: Relational Database Design Principles
 - Entity-Relationship Diagrams (ERD).
 - Normalization and denormalization.
 - Designing efficient and scalable database schemas.
 - Practical exercises in designing databases for real-world scenarios.
 
-## Week 5-6: Database Integration with Websites**
+## Week 5-6: Database Integration with Websites
 - Connecting databases to web applications.
 - Server-side scripting languages (e.g., PHP, Python, Node.js).
 - CRUD operations (Create, Read, Update, Delete) from web applications.
 - Implementing security measures for database integration.
 
-## Week 7-8: Advanced SQL and Query Optimization**
+## Week 7-8: Advanced SQL and Query Optimization
 - Complex SQL queries (JOINS, subqueries).
 - Indexing and query optimization techniques.
 - Practical exercises to optimize database queries.
  
-## Week 9-10: NoSQL Databases and Integration**
+## Week 9-10: NoSQL Databases and Integration
 - Introduction to NoSQL databases.
 - Comparisons between SQL and NoSQL databases.
 - Integrating NoSQL databases into web applications.
